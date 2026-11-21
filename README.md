@@ -9,9 +9,9 @@ une erreur, c'est juste une nouvelle chance.
 Les fichiers de ce dépôt sont **chiffrés** : sans le code d'accès donné aux familles par la TEAM XDK, ils ne
 s'ouvrent pas. Le même code ouvre tous les jeux pour enfants (Petits Pas, Tchac !).
 
-- 💻 **PC (Windows 10 et 11)** : installe [XDK Hub](https://github.com/xavstream/XDK-Hub-releases/releases/latest),
+- 💻 **PC (Windows 10 et 11)** : installe [XDK Hub](https://github.com/XDK-Vito/XDK-Hub-releases/releases/latest),
   va dans **Jeux pour enfants**, choisis **Petits Pas** et tape le code. Le hub s'en souvient et garde le jeu à jour.
-- 📱 **Android** et 🌐 **navigateur** : ouvre **https://xavstream.github.io/petits-pas/** et tape le code.
+- 📱 **Android** et 🌐 **navigateur** : ouvre **https://xdk-vito.github.io/petits-pas/** et tape le code.
   Tu peux y jouer tout de suite ou télécharger l'appli Android (`XDKPetitsPas.apk`).
 
 ## Les six jeux
